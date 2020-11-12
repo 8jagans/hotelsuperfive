@@ -1,0 +1,33 @@
+.form{
+    margin-left: 20%;
+    width:20%;
+
+    
+}
+.img{
+    width: 2000px;
+        background: linear-gradient(orange,yellow);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h{
+    font-size: 35px;
+    font-family: Colonna MT;
+    font-weight: bold;
+    margin-left: 30%;
+}
+.type{
+    margin-left: 10%;
+}
+.label{
+    font-family: Colonna MT;
+    font-weight: bold;
+    font-size: 20px;
+}
+.button{
+    margin-left: 10%;
+    font-family: Colonna MT;
+    font-size: 20px;
+    background-color: rgb(41, 41, 236);
+}

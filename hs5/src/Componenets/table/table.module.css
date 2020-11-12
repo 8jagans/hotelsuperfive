@@ -1,0 +1,39 @@
+.tabe
+{
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.h
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #49CC85;
+}
+
+.img
+{
+    float: right;
+    width: 5%;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.t
+{
+    background-color: #FFF8DC;
+    margin-top: 2%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mt
+{
+    background-color: white;
+}
+.d
+{
+    margin-left:45%;
+}

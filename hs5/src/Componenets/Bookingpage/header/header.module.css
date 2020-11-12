@@ -1,0 +1,28 @@
+.img
+{
+    position: absolute;
+    margin-left: 1%;
+    margin-top:1%;
+    width: 110px;
+}
+
+.p1
+{
+    position: static;
+    width: 100%;
+    font-family: "Arial black";
+    font-size: 35px;
+    color: white;
+    background-image: linear-gradient(to right,#ffc800,#ff9900);
+  
+    
+    text-align: center;
+    border: none;
+    padding-top: 18px;
+    padding-bottom: 25px;
+}
+.p2{
+    background: -webkit-linear-gradient(#8b0000, #f39d9d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

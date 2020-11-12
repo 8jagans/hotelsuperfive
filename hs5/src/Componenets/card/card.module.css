@@ -1,0 +1,50 @@
+.div
+{
+    display: inline-flex;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: #FFFACD;
+}
+.image
+{
+  width: 250px;
+  height: 180px;
+}
+
+.margin{
+    margin-top: 3%;
+}
+
+.button
+{
+    background-color: #FF8C00;
+    color: white;
+    font-size: 20px;
+    cursor:pointer;
+}
+.button:hover
+{
+    background-color: red;
+}
+.button:active 
+{
+  transform: translateY(2px);
+}
+
+.badge
+{
+    font-size: 18px;
+    margin-right: 37%;
+    color: black;
+    background-color: #98FB98;
+}
+.title
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+.sub
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

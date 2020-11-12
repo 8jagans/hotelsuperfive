@@ -1,0 +1,57 @@
+.img{
+    width: 400px;
+    height: 300px;
+}
+
+.img1{
+    width: 500px;
+    height: 300px;
+}
+
+.Food{
+    font-family: castellar;
+    font-size: 40px;
+    color: blue;
+    font-weight: bolder;
+}
+
+.project{
+    font-family: Bodoni MT;
+    font-size: 20px;
+}
+
+.space{
+    margin: 50px;
+}
+
+
+.button1
+{
+    font-family: "Verdana";    
+    background-color: #ff9900;
+    color: WHITE;
+    border:1px solid #F7F7F7;
+    border-radius: 50px;
+    margin-left:45%;
+    position: static;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 6px 5px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+
+}
+.button1:hover 
+{
+    background-color: #ff3300;
+    color: white;
+    border:NONE;
+    box-shadow: 0 10px 12px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.b{
+    margin-left: 40%;
+    text-decoration: none;
+
+}
